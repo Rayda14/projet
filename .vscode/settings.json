@@ -1,0 +1,14 @@
+{
+    "makefile.makefilePath": "../",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/ubuntu/Desktop/ProjetC/Projet/src",
+            "binaryPath": "/home/ubuntu/Desktop/ProjetC/Projet/src/projet",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "agent.h": "c",
+        "gtk.h": "c"
+    }
+}
